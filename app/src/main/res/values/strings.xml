@@ -40,5 +40,7 @@
     <string name="creation_of_adam_title">Creation of Adam</string>
     <string name="creation_of_adam_artist">Michelangelo</string>
     <string name="creation_of_adam_year">1508</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
 
 </resources>
