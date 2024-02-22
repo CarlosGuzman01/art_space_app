@@ -1,3 +1,44 @@
 <resources>
     <string name="app_name">create art space app</string>
+
+    <string name="mona_lisa_title">Mona Lisa</string>
+    <string name="mona_lisa_artist">Leonardo da Vinci</string>
+    <string name="mona_lisa_year">1503</string>
+    
+    <string name="the_last_supper_title">The Last Supper</string>
+    <string name="the_last_supper_artist">Leonardo da Vinci</string>
+    <string name="the_last_supper_year">1495</string>
+    
+    <string name="the_starry_night_title">The Starry Night</string>
+    <string name="the_starry_night_artist">Vincent van Gogh</string>
+    <string name="the_starry_night_year">1889</string>
+
+    <string name="the_scream_title">The Scream</string>
+    <string name="the_scream_artist">Edward Munch</string>
+    <string name="the_scream_year">1893</string>
+    
+    <string name="guernica_title">Guernica</string>
+    <string name="guernica_artist">Pablo Picasso</string>
+    <string name="guernica_year">1937</string>
+    
+    <string name="the_kiss_title">The Kiss</string>
+    <string name="the_kiss_artist">Gustav Klimt</string>
+    <string name="the_kiss_year">1907</string>
+
+    <string name="girl_with_a_pearl_earning_title">Girl With a Pearl Earring</string>
+    <string name="girl_with_a_pearl_earning_artist">Johannes Vermeer</string>
+    <string name="girl_with_a_pearl_earning_year">1665</string>
+
+    <string name="the_birth_of_venus_title">The Birth of Venus</string>
+    <string name="the_birth_of_venus_artist">Sandro Botticelli</string>
+    <string name="the_birth_of_venus_year">1485</string>
+
+    <string name="las_meninas_title">Las Meninas</string>
+    <string name="las_meninas_artist">Diego Velázquez</string>
+    <string name="las_meninas_year">1656</string>
+
+    <string name="creation_of_adam_title">Creation of Adam</string>
+    <string name="creation_of_adam_artist">Michelangelo</string>
+    <string name="creation_of_adam_year">1508</string>
+
 </resources>
